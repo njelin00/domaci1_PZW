@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "domaci1_PZW", "Niko_dr1\domaci1_PZW.csproj", "{6B8B746C-DC55-446E-AFA4-976E13BAA649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B8B746C-DC55-446E-AFA4-976E13BAA649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8B746C-DC55-446E-AFA4-976E13BAA649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8B746C-DC55-446E-AFA4-976E13BAA649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8B746C-DC55-446E-AFA4-976E13BAA649}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
